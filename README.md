@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/nitish496/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/nitish496/leetcode/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/nitish496/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/nitish496/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nitish496/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitish496/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/nitish496/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/nitish496/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Sorting
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nitish496/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitish496/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/nitish496/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/nitish496/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/nitish496/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/nitish496/leetcode/tree/master/0048-rotate-image) |
+## Counting
+|  |
+| ------- |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/nitish496/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 <!---LeetCode Topics End-->
